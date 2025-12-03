@@ -67,6 +67,13 @@ Most profitable clinic per city per month
 
 Second least profitable clinic per state per month
 
+
+
+
+
+
+
+
 📊 2. Spreadsheet Proficiency
 📁 File: Spreadsheets/Ticket_Analysis.xlsx
 
@@ -113,6 +120,14 @@ number of tickets created & closed on the same day
 number of tickets created & closed in the same hour of same day
 
 All formulas are implemented using Google Sheets.
+
+
+
+
+
+
+
+
 
 🐍 3. Python Proficiency
 📁 Folder: Python/
